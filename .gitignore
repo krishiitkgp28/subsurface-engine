@@ -1,0 +1,9 @@
+# Python environments and cache
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore all geological data!
+data/*
+!data/.gitkeep
